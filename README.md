@@ -2,6 +2,6 @@ This is a simple React Application that uses an online API to fetch data so that
 
 To run this project,
 1. clone the repository
-2. run "npm -i"
-3. ng serve.
+2. install npm using "npm install" command.
+3. run "npm start".
 
